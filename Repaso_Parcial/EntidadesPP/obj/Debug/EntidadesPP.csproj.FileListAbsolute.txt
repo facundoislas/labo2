@@ -1,0 +1,5 @@
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\EntidadesPP\obj\Debug\EntidadesPP.csprojResolveAssemblyReference.cache
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\EntidadesPP\bin\Debug\EntidadesPP.dll
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\EntidadesPP\bin\Debug\EntidadesPP.pdb
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\EntidadesPP\obj\Debug\EntidadesPP.dll
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\EntidadesPP\obj\Debug\EntidadesPP.pdb

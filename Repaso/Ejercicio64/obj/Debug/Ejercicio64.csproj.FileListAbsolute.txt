@@ -1,0 +1,6 @@
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio64\bin\Debug\Ejercicio64.exe.config
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio64\bin\Debug\Ejercicio64.exe
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio64\bin\Debug\Ejercicio64.pdb
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio64\obj\Debug\Ejercicio64.csprojResolveAssemblyReference.cache
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio64\obj\Debug\Ejercicio64.exe
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio64\obj\Debug\Ejercicio64.pdb

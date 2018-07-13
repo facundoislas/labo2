@@ -1,0 +1,23 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\fislas\Downloads\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+C:\Users\fislas\Downloads\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+C:\Users\fislas\Downloads\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csprojResolveAssemblyReference.cache
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.GenerateResource.Cache
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\bin\Debug\Entidades.dll
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\20180628-SP.v1\bin\Debug\Entidades.pdb

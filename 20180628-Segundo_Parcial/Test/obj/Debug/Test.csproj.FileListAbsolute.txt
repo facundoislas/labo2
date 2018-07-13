@@ -1,0 +1,7 @@
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\Test\bin\Debug\Test.dll
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\Test\bin\Debug\Test.pdb
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\Test\bin\Debug\Entidades.dll
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\Test\bin\Debug\Entidades.pdb
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\Test\obj\Debug\Test.dll
+C:\Users\fislas\Desktop\20180628-SP - Alumno\20180628-SP - Islas.Facundo\Test\obj\Debug\Test.pdb

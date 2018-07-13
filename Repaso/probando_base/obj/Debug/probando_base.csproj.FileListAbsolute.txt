@@ -1,0 +1,6 @@
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\probando_base\bin\Debug\probando_base.exe.config
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\probando_base\bin\Debug\probando_base.exe
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\probando_base\bin\Debug\probando_base.pdb
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\probando_base\obj\Debug\probando_base.csprojResolveAssemblyReference.cache
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\probando_base\obj\Debug\probando_base.exe
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\probando_base\obj\Debug\probando_base.pdb

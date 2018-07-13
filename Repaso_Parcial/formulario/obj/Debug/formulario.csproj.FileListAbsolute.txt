@@ -1,0 +1,11 @@
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\bin\Debug\formulario.exe.config
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\bin\Debug\formulario.exe
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\bin\Debug\formulario.pdb
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\obj\Debug\formulario.csprojResolveAssemblyReference.cache
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\obj\Debug\formulario.Form1.resources
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\obj\Debug\formulario.Properties.Resources.resources
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\obj\Debug\formulario.csproj.GenerateResource.Cache
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\obj\Debug\formulario.exe
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\obj\Debug\formulario.pdb
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\bin\Debug\EntidadesPP.dll
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso_Parcial\formulario\bin\Debug\EntidadesPP.pdb

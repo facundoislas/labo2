@@ -1,0 +1,9 @@
+c:\users\fislas\documents\visual studio 2013\Projects\Repaso\Ejercicio61\bin\Debug\Ejercicio61.exe.config
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\obj\Debug\Ejercicio61.csprojResolveAssemblyReference.cache
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\obj\Debug\Ejercicio61.Properties.Resources.resources
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\obj\Debug\Ejercicio61.csproj.GenerateResource.Cache
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\bin\Debug\Ejercicio61.exe
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\bin\Debug\Ejercicio61.pdb
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\obj\Debug\Ejercicio61.Form1.resources
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\obj\Debug\Ejercicio61.exe
+C:\Users\fislas\Documents\Visual Studio 2013\Projects\Repaso\Ejercicio61\obj\Debug\Ejercicio61.pdb
